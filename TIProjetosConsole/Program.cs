@@ -10,6 +10,7 @@ namespace TIProjetosConsole
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Ola Mundo");
         }
     }
 }
