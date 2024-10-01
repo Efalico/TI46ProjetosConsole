@@ -11,6 +11,7 @@ namespace TIProjetosConsole
         static void Main(string[] args)
         {
             Console.WriteLine("Ola Mundo");
+            Console.WriteLine("Teste, linha 2");
         }
     }
 }
